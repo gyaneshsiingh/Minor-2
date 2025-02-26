@@ -1,5 +1,9 @@
-numpy
-pandas
-scikit-learn
 streamlit
-opencv-python
+pandas
+numpy
+ffmpeg-python
+pillow
+scikit-learn
+pickle5 
+uuid
+tempfile
